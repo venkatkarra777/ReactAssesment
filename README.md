@@ -3,3 +3,10 @@
 This assessment was bespoke handcrafted for Venky.
 
 Read more about this assessment [here](https://react.eogresources.com)
+
+
+steps clone application
+
+npm install 
+
+npm start
